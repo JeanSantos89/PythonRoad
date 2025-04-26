@@ -10,3 +10,7 @@
         Case Sensitive;
         Query params - Filtrar com varias informações
         Path variables - Escolher um específico, por exemplo ID
+
+    Post:
+        BODY;
+        Alguns end points precisa ter autorização pra pegar lidar com as informações
