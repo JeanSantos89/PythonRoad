@@ -12,5 +12,5 @@
         Path variables - Escolher um específico, por exemplo ID
 
     Post:
-        BODY;
-        Alguns end points precisa ter autorização pra pegar lidar com as informações
+        Para enviar algum dado, de acordo com a documentação: pode ser que seja preciso colocar em RAW para enviar como JSON;
+        Alguns end points precisa ter autorização pra pegar lidar com as informações;
