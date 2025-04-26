@@ -14,3 +14,11 @@
     Post:
         Para enviar algum dado, de acordo com a documentação: pode ser que seja preciso colocar em RAW para enviar como JSON;
         Alguns end points precisa ter autorização pra pegar lidar com as informações;
+
+        {{$randomfullName}} - Gerador de dados aleatórios, há várias variáveis desse tipo.
+
+    Postman:
+        ---- Serve pra se comunicar com APIS
+        Não serve para usar como se fosse User Interaction
+        Não serve para Performance Testing
+        Não serve para Security Testing
