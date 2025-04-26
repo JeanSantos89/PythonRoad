@@ -8,3 +8,5 @@
     Com get:
         Colocamos os parâmetros que desejamos de acordo com os tipos de dados que há na response da API;
         Case Sensitive;
+        Query params - Filtrar com varias informações
+        Path variables - Escolher um específico, por exemplo ID
