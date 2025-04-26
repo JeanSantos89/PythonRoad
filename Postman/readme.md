@@ -22,3 +22,15 @@
         Não serve para usar como se fosse User Interaction
         Não serve para Performance Testing
         Não serve para Security Testing
+
+
+        
+Test:
+    pm.test("Status code is 200", function () {
+    pm.response.to.have.status(200);
+});
+
+const response = pm.response.json()
+
+Cria um teste e vê se passa: aparecer status code 200
+Guarda essa resposta na variavel response para uso do código
